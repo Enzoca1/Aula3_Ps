@@ -1,0 +1,12 @@
+body {
+    background-color: wheat;
+}
+p{
+    font-size: 60px;
+    color: blue;
+    font-weight: bold;
+}
+
+.texto {
+    color:azure ;
+}
